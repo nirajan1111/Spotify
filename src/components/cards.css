@@ -1,7 +1,5 @@
 .container_cards {
   position: relative;
-  display: flex;
-  flex-direction: row;
 }
 
 .cards {

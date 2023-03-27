@@ -1,22 +1,22 @@
-.sidebar{
-    width:15vw;
-    height:100vh;
-    background-color: black;
-    padding: 30px;
-    display: flex;
-    flex-direction: column;
+.sidebar {
+  width: 200px;
+  height: 100vh;
+  background-color: black;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
 }
-a{
-   color:white;
-   text-decoration: none;
+a {
+  color: white;
+  text-decoration: none;
 }
-.navlink{
-    color:white;
-    opacity: 62%;
+.navlink {
+  color: white;
+  opacity: 62%;
 }
-a:hover{
-    color:white;
-    opacity: 100%;
+a:hover {
+  color: white;
+  opacity: 100%;
 }
 .body_container {
   margin: auto;

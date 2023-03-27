@@ -3,7 +3,7 @@ import Card from "./card";
 import "./cards.css";
 export default function Cards() {
   return (
-    <div className="container_cards">
+    <div className="container_cards d-flex">
       <div className="cards" id="card1">
         <Card
           id="card1"
