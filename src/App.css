@@ -1,7 +1,13 @@
-.sidebar{
-    width:15vw;
-    height:100vh;
-    background-color: black;
-    color: white;
-    padding: 30px;
+.sidebar {
+  width: 15vw;
+  height: 100vh;
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
+.body_container {
+  margin: auto;
+  position: relative;
+  display: flex;
+  flex-direction: row;
 }
