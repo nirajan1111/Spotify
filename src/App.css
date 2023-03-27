@@ -2,6 +2,19 @@
     width:15vw;
     height:100vh;
     background-color: black;
-    color: white;
     padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+a{
+   color:white;
+   text-decoration: none;
+}
+.navlink{
+    color:white;
+    opacity: 62%;
+}
+a:hover{
+    color:white;
+    opacity: 100%;
 }
