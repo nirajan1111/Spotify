@@ -18,3 +18,16 @@ a:hover{
     color:white;
     opacity: 100%;
 }
+.sidebar {
+  width: 15vw;
+  height: 100vh;
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
+.body_container {
+  margin: auto;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}

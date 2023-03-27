@@ -1,0 +1,17 @@
+.container_cards {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}
+
+.cards {
+  border: 2px solid black;
+  margin-left: 20px;
+  box-shadow: 4px 4px 4px 4px;
+  text-align: center;
+  justify-content: center;
+}
+.cards:hover {
+  background-color: rgb(55, 55, 43);
+  transform: scale(1.1);
+}
