@@ -1,12 +1,12 @@
 import "./App.css";
 import "../node_modules/bootstrap/dist/css/bootstrap.css"
-import Navbar from "./components/navbar";
+import Sidebar from "./components/sidebar";
 function App() {
-  return <div>
-
-<Navbar/>
-
-  </div>;
+  return (
+    <div>
+      <Sidebar />
+    </div>
+  );
 }
 
 export default App;
